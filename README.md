@@ -1,3 +1,7 @@
+# Projet 1 La Journée De Travail sans Chaussures
+
+
+
 ### Installing
 * Clone the project `git clone https://github.com/GamerPsy/WCS_Projet1_JourneeSansChaussures.git`
 * Open `index.html` in your favorite browser
