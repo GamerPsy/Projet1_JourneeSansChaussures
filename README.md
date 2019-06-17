@@ -13,5 +13,6 @@
 ### Contributors
 * Candice BOURGUIGNON - [Candicedb](https://github.com/Candicedb)
 * Jessica VIEL - [LadyClaudia](https://github.com/LadyClaudia)
+* Rémy DUCRY- [GamerPsy](https://github.com/GamerPsy)
 
 ###### Duration of the project : 3 weeks
