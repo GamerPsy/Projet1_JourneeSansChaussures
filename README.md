@@ -1,5 +1,6 @@
 # Projet 1 La Journée De Travail sans Chaussures
 First project for a fictitious customer, World Day of Work without Footwear Day association.
+
 ![Journée Du Travail Sans Chaussures](slide.gif)
 
 ### Installing
